@@ -23,6 +23,10 @@ I enjoy working on backend architecture, authentication/authorization systems, a
 
 ## Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,tailwind,mysql,postgres,git,github,docker,vscode,vercel" />
+</p>
+
 **Backend:** PHP, Laravel, MVC, REST API design, Eloquent ORM, Laravel Sanctum
 
 **Frontend:** JavaScript, Vue.js 3, Inertia.js, Tailwind CSS
@@ -35,16 +39,8 @@ I enjoy working on backend architecture, authentication/authorization systems, a
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pialSoftDev&layout=compact&hide_border=true&langs_count=8" />
-</div>
-
----
-
 <div align="center">
 
 **Let's connect:** [Email](mailto:pialsoftdev@gmail.com) · [GitHub](https://github.com/pialSoftDev)
 
-</div>
+</div>s
