@@ -43,4 +43,4 @@ I enjoy working on backend architecture, authentication/authorization systems, a
 
 **Let's connect:** [Email](mailto:pialsoftdev@gmail.com) · [GitHub](https://github.com/pialSoftDev)
 
-</div>s
+</div>
